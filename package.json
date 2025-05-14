@@ -1,5 +1,5 @@
 {
-  "name": "@calumk/editorjs-columns",
+  "name": "@peppapig/editorjs-columns",
   "version": "0.3.2",
   "description": "Columns, for EditorJS",
   "main": "dist/editorjs-columns.bundle.js",

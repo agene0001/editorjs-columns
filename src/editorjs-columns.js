@@ -27,8 +27,8 @@ class EditorJsColumns {
 
 
 	constructor({ data, config, api, readOnly }) {
-		// console.log("API")
-		// console.log(api)
+		console.log("API")
+		console.log(api)
 		// start by setting up the required parts
 		this.api = api;
 		this.readOnly = readOnly;
