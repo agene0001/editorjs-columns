@@ -1,6 +1,6 @@
 {
-  "name": "@peppapig/editorjs-columns",
-  "version": "0.3.2",
+  "name": "@peppap1g/editorjs-columns",
+  "version": "0.3.3",
   "description": "Columns, for EditorJS",
   "main": "dist/editorjs-columns.bundle.js",
   "scripts": {
